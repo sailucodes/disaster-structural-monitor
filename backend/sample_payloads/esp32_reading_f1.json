@@ -1,0 +1,25 @@
+{
+  "floor_id": 1,
+  "timestamp": "2026-10-21T11:35:00.000Z",
+  "tilt": {
+    "pitch": 0.42,
+    "roll": -0.15,
+    "magnitude": 0.45
+  },
+  "accelerometer": {
+    "x": 0.012,
+    "y": -0.008,
+    "z": 0.991
+  },
+  "gyroscope": {
+    "x": 0.05,
+    "y": -0.02,
+    "z": 0.01
+  },
+  "vibration": {
+    "detected": false,
+    "intensity": 0.035
+  },
+  "crack_detected": false,
+  "data_source": "live_hardware"
+}
